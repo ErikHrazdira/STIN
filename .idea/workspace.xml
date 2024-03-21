@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76344642-67df-4abb-96f3-c83194d6a6cd" name="Changes" comment="Added all files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cz/tul/sti2024/cv/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/inputdata/input_valid.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-03-14T132255.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-03-14T132316.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-03-14T132319.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2024-03-14T132326.500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cz/tul/sti2024/cv/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cz/tul/sti2024/cv/model/Payment.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cz/tul/sti2024/cv/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/tul/sti2024/cv/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cz/tul/sti2024/cv/controller/HelloWorldControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cz/tul/sti2024/cv/controller/PaymentControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cz/tul/sti2024/cv/controller/HelloWorldController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,25 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ErikHrazdira&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="39d68a8d-ab79-4d17-ab13-e137fbbf6315" />
+        <option name="url" value="https://github.com/ErikHrazdira/STIN.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/cz/tul/sti2024/cv/model/Payment.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/target/classes/cz/tul/sti2024/cv/config/AppConfig.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/target/classes/cz/tul/sti2024/cv/controller/PaymentController.class" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -134,6 +152,7 @@
       <workItem from="1710406304282" duration="419000" />
       <workItem from="1710416054183" duration="4664000" />
       <workItem from="1711021024953" duration="1757000" />
+      <workItem from="1711023925565" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="Added all files">
       <option name="closed" value="true" />
